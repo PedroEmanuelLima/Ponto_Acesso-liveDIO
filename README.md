@@ -11,7 +11,7 @@ Api de Ponto de acesso desenvolvido durante uma live do Bootcamp do Santander na
 - Spring Boot 2.5.2
 
 ## Testar Projeto
-- Fazer download do projeto `https://github.com/PedroEmanuelLima/Ponto_Acesso-liveDIO.git`
+- Fazer download do projeto `git clone https://github.com/PedroEmanuelLima/Ponto_Acesso-liveDIO.git`
 - Abrir o diretório em uma IDE para fazer o build do projeto (Manualmente execute em .\live o comando gradle run)
 - Após fazer build configure o arquivo `application.properties` em `.\live\src\main\resources` com as configurações de sua base de dados
 - Para testar a aplicação execute a classe `LiveApplication` no caminho `.\live\src\main\java\com\live\`
